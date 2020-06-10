@@ -1,0 +1,1 @@
+insert into persona(id,nombre) values(1,'abigail')
